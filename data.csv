@@ -1,0 +1,8 @@
+Animal Type,Age (Years),Lifespan (Years),% Lifespan Covered,Health Condition,Symptoms,Treatment Type,Valid Treatment,Immediate Care
+Giraffe,28,25,112%,Arthritis,"Stiffness, Pain",Anti-inflammatory,Yes,No
+Giraffe,8,25,32%,Healthy,None,None,Yes,No
+Panda,41,30,137%,Digestive Issues,"Nausea, Vomiting",Dietary Change,Yes,No
+Lion,39,25,156%,Obesity,Weight Gain,Diet Regulation,No (Remove),No
+Tiger,13,20,65%,Respiratory Problems,Breathing Issues,Medication,Yes,Yes
+Elephant,33,60,55%,Skin Issues,"Rashes, Itching",Topical Treatment,Yes,No
+Tiger,44,20,220%,Digestive Issues,Abdominal Pain,Dietary Change,Yes,No
